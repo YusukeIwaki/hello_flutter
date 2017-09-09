@@ -1,8 +1,3 @@
 # hello_flutter
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
+A Flutter playground project with https://codelabs.developers.google.com/codelabs/flutter/
